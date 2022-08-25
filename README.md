@@ -1,4 +1,4 @@
-# A-Very-Short-Introduction-for-Multi-Armed-Bandits-SOURCES-
+# A-Very-Short-Introduction-for-Multi-Armed-Bandits-SOURCES:
 
 Textbook-Thesis: Zhao, Kevin Hanbo. 2020. Regret-Based Algorithms for Multi-Armed Bandits. Bachelor's thesis, Harvard College.
 
